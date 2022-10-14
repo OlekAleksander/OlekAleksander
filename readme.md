@@ -1,15 +1,19 @@
 <h1 align="center"> OlekAleksander </h3>
 <h3 align="center">A polish person who likes to code</h3>
 
-## I code with
-Python,
-JavaScript,
-Html, CSS,
-Java
 
-
+<h2 align="center">I use</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olekaleksander&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark" />
+    <img width="128px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
+    <img width="128px" src="https://wewarriors.life/pics/clipground.com/images/html-logo-png-3.png" />
+    <img width="128px" src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" />
+    <img width="128px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
+    <img width="128px" src="https://www.citypng.com/public/uploads/small/11662223548l3lxu8fbd8otntiiwviu5ol3xxzfkzkxyryzrcyvhbbhjbl0v47tcstg1kursipml6xvyzi2efyqhhpkaddajo4r2asgoytjcxjb.png" />
+</p>
+
+<h2 align="center">Stats</h2>
+<p align="center">
+  <img width="512px" src="https://github-readme-stats.vercel.app/api?username=olekaleksander&theme=github_dark" />
   <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olekaleksander&layout=compact&theme=github_dark)](https://github.com/anuraghzra/github-readme-stats" />
+    <img width="512px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olekaleksander&layout=compact&theme=github_dark" />
 </p>
