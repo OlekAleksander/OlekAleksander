@@ -1,9 +1,6 @@
 <h1 width="128px" align="center"> OlekAleksander </h3>
 <h3 align="center">A polish person who likes to code</h3>
 
-<h2 align="center">Stats</h2>
-<p align="center">
-    
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
